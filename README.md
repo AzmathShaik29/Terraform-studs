@@ -1,4 +1,4 @@
 # Terraform-studs
 This Repo is used for Terraform
 <br>
-Author - Azmath Shaik
+Author - Azmath Ali Pasha Shaik
